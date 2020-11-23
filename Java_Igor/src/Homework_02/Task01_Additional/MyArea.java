@@ -1,4 +1,4 @@
-package Homework_02.Task02;
+package Homework_02.Task01_Additional;
 
 public class MyArea {
     public static double areaOfCircle(double radius){
