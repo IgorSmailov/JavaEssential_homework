@@ -17,7 +17,7 @@ public class Main {
             pupil.read();
             pupil.write();
             pupil.relax();
-            System.out.println("Pupil #" +pupil);
+            System.out.println("Pupil #" +pupil.toString());
         }
 
     }
