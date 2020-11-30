@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53af4518-27e2-4d41-9124-b14d990700d5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaEssential_homework.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaEssential_homework.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1l0XDo5TgmdCJhSsF5ngvXdSHM6" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Homework_003_01.Main" />
+      <module name="JavaEssential_homework" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Homework_003_01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53af4518-27e2-4d41-9124-b14d990700d5" name="Default Changelist" comment="" />
+      <created>1606734867624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606734867624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="372" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606744340007">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="372" y="193" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1022@0.23.1792.1022" timestamp="1606744340007" />
+    <state x="721" y="245" key="#com.intellij.ide.util.MemberChooser" timestamp="1606742876515">
+      <screen x="0" y="23" width="1792" height="1022" />
+    </state>
+    <state x="721" y="245" key="#com.intellij.ide.util.MemberChooser/0.23.1792.1022@0.23.1792.1022" timestamp="1606742876515" />
+    <state width="1726" height="275" key="GridCell.Tab.0.bottom" timestamp="1606745517413">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state width="1726" height="275" key="GridCell.Tab.0.bottom/0.23.1792.1024@0.23.1792.1024" timestamp="1606745517413" />
+    <state width="1726" height="275" key="GridCell.Tab.0.center" timestamp="1606745517412">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state width="1726" height="275" key="GridCell.Tab.0.center/0.23.1792.1024@0.23.1792.1024" timestamp="1606745517412" />
+    <state width="1726" height="275" key="GridCell.Tab.0.left" timestamp="1606745517411">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state width="1726" height="275" key="GridCell.Tab.0.left/0.23.1792.1024@0.23.1792.1024" timestamp="1606745517411" />
+    <state width="1726" height="275" key="GridCell.Tab.0.right" timestamp="1606745517412">
+      <screen x="0" y="23" width="1792" height="1024" />
+    </state>
+    <state width="1726" height="275" key="GridCell.Tab.0.right/0.23.1792.1024@0.23.1792.1024" timestamp="1606745517412" />
+  </component>
+</project>
