@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Specify the access option:");
-        System.out.println("#1 - EXPERT Mode | 2 - PRO Mode | 3 - TRIAL / I do not have a key");
+        System.out.println("#1 - EXPERT Mode | 2 - PRO Mode | 3 - TRIAL = I do not have a key");
 
         Scanner scanner = new Scanner(System.in);
         int key = scanner.nextInt();
